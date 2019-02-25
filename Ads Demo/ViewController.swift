@@ -15,6 +15,7 @@ import GoogleMobileAds
 
 class ViewController: UIViewController {
 
+    // Outlets
     @IBOutlet weak var bannerView: GADBannerView!
     
     override func viewDidLoad() {
